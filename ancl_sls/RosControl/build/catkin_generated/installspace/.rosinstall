@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/local/NONLIN/shiyu/ancl-sls/PX4-Autopilot/Tools/sitl_gazebo/ancl_sls/RosControl/install/setup.sh
